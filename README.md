@@ -1,0 +1,2 @@
+# time-series-forecasting-and-analysis-of-corporation-favorite-product-store-sales
+This project involves time series forecasting. Using information from Corporation Favorita, a big grocery chain with headquarters in Ecuador, we will forecast store sales. Six csv files (train, test, store, oil, holidays_events, transactions) are sent to us; they contain information about goods, stores, specials, sales, oil prices, holidays.
