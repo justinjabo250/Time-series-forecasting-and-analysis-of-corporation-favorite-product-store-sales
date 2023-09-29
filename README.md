@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://github.com/justinjabo250?tab=repositories)
 
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Pjg9OGIes1UwwdZq.jpg" width="550">
+<img src="https://user-images.githubusercontent.com/115732734/271711902-8993af83-86cd-46b7-bb84-866f205b4468.jpeg" width="550">
 
 ## Time Series Forecasting And Analysis Of Store Sales Of Corporation Favorita Products-Regression Findings
 
@@ -22,7 +22,7 @@ Because Favorita Corporation's sales over the previous four years have created a
 We will develop scientific hypotheses based on time-stamped historical data as part of this research, use those hypotheses to build models using historical analysis, use those models to make observations, and use them to guide future strategic decision-making. We would like to assist management at Favorita Corporation in deriving some insights from their data in order to improve operations and eventually revenue.
 
 
-![dataad](https://user-images.githubusercontent.com/115732734/236700772-aa89262a-eb8f-4607-be53-0cf7bdbd84aa.jpeg)
+<img src="https://user-images.githubusercontent.com/115732734/271712315-71f5165a-3133-422f-8ba3-8cf0039b9029.jpeg" width="550">
 
 
 # Methodology:
