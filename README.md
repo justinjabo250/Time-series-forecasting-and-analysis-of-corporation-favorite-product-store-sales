@@ -13,13 +13,17 @@
 
 ### Description: 
 
-Based on time series data from Corporation Favorita, a significant grocery retailer with headquarters in Ecuador, this study intends to analyze and forecast the sales of a particular store.
+This study aims to evaluate and anticipate the sales of a specific store using time series data from Corporation Favorita, a prominent supermarket retailer with headquarters in Ecuador.
 
-In order to help the management of the store develop inventory and sales plans, the goal is to develop a model that can accurately anticipate future sales using the hundreds of products sold at various Favorita locations.
+The objective is to create a model that can precisely forecast future sales utilizing the hundreds of products sold at various Favorita locations in order to assist the management of the store in developing inventory and sales plans.
 
-Because Favorita Corporation's sales over the previous four years have created a lot of data, we will utilize sales forecasting to calculate future sales levels for a company using historical sales data. Our goal is to assist business managers in forecasting the future using this data, which has been stored on file for a predetermined amount of time after the event or after it occurred.
+We will use sales forecasting to determine future sales levels for a corporation using past sales data since Favorita Corporation's sales over the previous four years have generated a lot of data. By using this information, which has been kept on file for a certain period of time after the event or after it occurred, we want to help company managers make predictions about the future.
 
-We will develop scientific hypotheses based on time-stamped historical data as part of this research, use those hypotheses to build models using historical analysis, use those models to make observations, and use them to guide future strategic decision-making. We would like to assist management at Favorita Corporation in deriving some insights from their data in order to improve operations and eventually revenue.
+As part of this research, we will formulate scientific hypotheses based on time-stamped historical data, use those hypotheses to construct models through historical analysis, use those models to generate observations, and utilize those observations to inform future strategic decision-making. To improve operations and ultimately revenue, we would like to help management at Favorita Corporation get some insights from their data.
+
+## Project Goals
+
+This project involves time series forecasting. Using information from Corporation Favorita, a big grocery chain with headquarters in Ecuador, we will forecast store sales. Six csv files (train, test, store, oil, holidays_events, transactions) are sent to us; they contain information about goods, stores, specials, sales, oil prices, holidays and more.
 
 
 <img src="https://user-images.githubusercontent.com/115732734/271712315-71f5165a-3133-422f-8ba3-8cf0039b9029.jpeg" width="550">
