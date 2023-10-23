@@ -5,6 +5,8 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
 [![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://github.com/justinjabo250?tab=repositories)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-purple)](https://github.com/justinjabo250)
 
 
 <img src="https://user-images.githubusercontent.com/115732734/271711902-8993af83-86cd-46b7-bb84-866f205b4468.jpeg" width="550">
